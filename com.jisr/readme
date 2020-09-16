@@ -1,0 +1,16 @@
+This framework has been created to test the following-
+
+1. Fetch name, ratings, and movie release year of top 250 TV shows from IMDB site- Done by first test method in test class
+
+2. Verify/Assert that the movie list is displayed correctly under all sorting metrics and orders- I have used assert methods
+	to check the sorting metrics. It can also be done by using using Array List and then sorting it for metrics like Release Year
+	
+3. Sorting is correct for both ascending and descending orders for below criteria- I have found out the xpath of sort icons and 
+	compared descending and ascending ordered lists
+	
+4. I have used Page Object Model for this framework but the xpaths of lists have been used in Test Cases as well so it
+	is not purely POM.
+	
+5. How to run the project- Download the project from the URL and move it to your eclipse work-place. You can also git pull the project.
+
+6. Please make sure to check the pom.xml file for all the dependencies 

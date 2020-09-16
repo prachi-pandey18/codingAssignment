@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name= "com.jisr">
+
+	<test name="TC_001_VerifySorting">
+		<parameter name= "browser" value ="chrome" />
+		<classes>
+			<class name = "com.jisr.testCases.TC_001_VerifySorting"/>
+		
+		</classes>
+	</test>
+	
+	</suite>
+		
+		
